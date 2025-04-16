@@ -20,8 +20,8 @@ function register () {
 
 
 ## ordered list 
-1. list item 1
-2. *** list item 2 ***
+1. *Italic item*
+2. **Bold item**
 
 
 ---
