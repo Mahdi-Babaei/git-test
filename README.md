@@ -32,7 +32,9 @@ function register () {
 
 ---
 
-![random Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![random Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+
+![random Image](https://img.shields.io/npm/dw/js)
 
 ### Links
 
